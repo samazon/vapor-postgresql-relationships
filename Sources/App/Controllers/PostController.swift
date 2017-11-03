@@ -1,5 +1,6 @@
 import Vapor
 import HTTP
+import PostgreSQLProvider
 
 /// Here we have a controller that helps facilitate
 /// RESTful interactions with our Posts table

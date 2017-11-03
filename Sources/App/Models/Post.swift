@@ -1,6 +1,7 @@
 import Vapor
 import FluentProvider
 import HTTP
+import PostgreSQLProvider
 
 final class Post: Model {
     let storage = Storage()
